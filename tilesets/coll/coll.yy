@@ -12,12 +12,12 @@
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
-    "name": "Наборы плиток",
-    "path": "folders/Наборы плиток.yy",
+    "name": "Tile",
+    "path": "folders/Tile.yy",
   },
   "spriteId": {
-    "name": "Sprite2",
-    "path": "sprites/Sprite2/Sprite2.yy",
+    "name": "Swall",
+    "path": "sprites/Swall/Swall.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {
